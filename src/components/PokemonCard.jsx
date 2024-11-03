@@ -106,7 +106,7 @@ const styles = StyleSheet.create({
     color: "white", // Texto en blanco
   },
   name: {
-    fontSize: 30, // Tamaño más grande para el nombre
+    fontSize: 28, // Tamaño más grande para el nombre
     fontWeight: "bold",
     color: "white", // Texto en blanco
   },
